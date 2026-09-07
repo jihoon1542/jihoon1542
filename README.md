@@ -5,7 +5,6 @@
 ## About Me
 - Java 기반 백엔드 개발 공부 중
 - Git & GitHub 협업 학습 중
-- 실제 사용자 문제를 해결하는 서비스 개발에 관심이 있습니다
 
 ## Tech Stack
 - Java
