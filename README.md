@@ -5,6 +5,7 @@
 ## About Me
 - Java 기반 백엔드 개발 공부 중
 - Git & GitHub 협업 학습 중
+- 실제 사용자 문제를 해결하는 서비스 개발에 관심이 있습니다
 
 ## Tech Stack
 - Java
@@ -15,20 +16,25 @@
 
 ## Projects
 
-### Todo CLI
-GitHub 협업 흐름을 연습하기 위한 Java CLI 프로젝트
+### 🎓 GRANA
+**Graduate + Navigation**
 
-- Branch
+대학생 개인별 졸업요건을 분석하고,
+졸업까지 남은 학점과 수강 가능한 과목을 안내하는 졸업 플래너입니다.
+
+- 졸업요건 자동 판정
+- 영역별 남은 학점 계산
+- 미이수 과목 분석
+- 시간표 이미지 분석
+- AI 졸업 도우미
+
+### ✅ Todo CLI
+Git/GitHub 협업 흐름을 학습하기 위해 만든 Java CLI 프로젝트
+
+- Feature Branch
 - Pull Request
 - Merge
 - Issue 기반 개발
-
-### MT
-대학교 빈 강의실 탐색 서비스 아이디어
-
-- 빈 강의실 조회
-- 건물/층별 탐색
-- 대학생 공강 시간 활용
 
 ## Currently Learning
 - Spring Boot
